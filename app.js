@@ -5,12 +5,6 @@ const app = express();
 const PORT = 8080;
 app.use(cors());
 
-// async function getData(roll){
-//     let response = await axios.get(`https://terriblytinytales.com/testapi?rollnumber=${roll}`)
-//     console.log(response.data)
-//     return response.data;
-// }
-
 app.get('/api/getResult',async (req,res)=>{
     const rollNumber = req.query.rollNumber.split(',')
     let links =[]
