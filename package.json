@@ -4,6 +4,7 @@
   "description": "Handles API calls from Front end and makes call to TTT API",
   "main": "index.js",
   "scripts": {
+    "start": "node app.js",
     "test": "nodemon app.js"
   },
   "author": "Vaidik Kamde",
