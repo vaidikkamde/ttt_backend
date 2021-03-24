@@ -1,0 +1,19 @@
+{
+  "name": "ttt_project_backend",
+  "version": "1.0.0",
+  "description": "Handles API calls from Front end and makes call to TTT API",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "Vaidik Kamde",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
