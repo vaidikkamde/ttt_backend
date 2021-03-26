@@ -10,7 +10,7 @@
     <br />
     <a href="https://ttt-backend-vaidik.herokuapp.com/api/getResult?rollNumber=5,6,9">Heroku Hosted Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Front-End Repository</a>
+    <a href="https://github.com/vaidikkamde/ttt_frontend.git">Front-End Repository</a>
   </p>
 </p>
 
